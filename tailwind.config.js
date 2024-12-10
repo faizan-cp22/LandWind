@@ -9,7 +9,10 @@ export default {
       colors:{
         primary: '#111827',
         secondary: '#788188'
-      }
+      },
+      fontFamily: {
+        cormorant: ['Cormorant', 'serif'],
+      },
     },
   },
   plugins: [],
